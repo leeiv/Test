@@ -2093,3 +2093,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.25-06.24.24:139][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.25-06.24.25:219][996]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlockAEB5A47648BFFF5218C5F39665454D38.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
 [2019.01.25-06.24.25:320][996]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDatE545FE1E48B2CC90257A43A291DB6AE7.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
+[2019.01.25-06.24.45:571][512]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.24.46:928][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.24.48:778][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.24.53:051][996]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-06.25.21:983][  6]Cmd: TRANSACTION UNDO
+[2019.01.25-06.25.21:983][  6]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.25.26:315][246]Cmd: TRANSACTION UNDO
+[2019.01.25-06.25.26:315][246]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.25.37:644][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.26.30:617][ 59]Cmd: TRANSACTION UNDO
+[2019.01.25-06.26.30:617][ 59]LogEditorTransaction: Undo Rotate Actors
+[2019.01.25-06.26.32:445][157]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.26.35:853][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.26.45:921][148]Cmd: DELETE
+[2019.01.25-06.26.45:921][148]Cmd: ACTOR DELETE
+[2019.01.25-06.26.45:985][148]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-06.26.46:199][148]LogEditorActor: Deleted 1 Actors (0.278 secs)
+[2019.01.25-06.27.10:813][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.28.13:333][557]Cmd: DELETE
+[2019.01.25-06.28.13:333][557]Cmd: ACTOR DELETE
+[2019.01.25-06.28.13:396][557]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-06.28.13:396][557]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-06.28.13:396][557]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-06.28.13:614][557]LogEditorActor: Deleted 3 Actors (0.280 secs)
+[2019.01.25-06.28.48:523][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.28.50:222][404]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock05D72F9C4C74E21277F9E19325F46F32.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
+[2019.01.25-06.28.50:322][404]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDat98A0AEDC477F7E9E21AD849366D13036.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
