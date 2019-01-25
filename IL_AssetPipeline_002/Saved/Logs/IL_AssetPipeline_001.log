@@ -590,3 +590,337 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.25-05.05.51:014][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.25-05.05.52:014][161]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlockB7B0310E433A248B5B14C98679983D26.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
 [2019.01.25-05.05.52:123][161]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDatCE8386034EED0DDEB1F7DFBFDAF0ABF6.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
+[2019.01.25-05.06.16:856][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.11:571][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.07.15:351][623]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-05.07.15:855][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.17:670][769]Cmd: DELETE
+[2019.01.25-05.07.17:670][769]Cmd: ACTOR DELETE
+[2019.01.25-05.07.17:720][769]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.07.17:890][769]LogEditorActor: Deleted 1 Actors (0.221 secs)
+[2019.01.25-05.07.19:505][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.07.25:882][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.07.26:669][415]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-05.07.27:732][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.32:144][772]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.32:615][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.38:366][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.45:210][356]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.51:222][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.07.58:934][174]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.08.05:138][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.08.11:915][965]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-05.08.16:239][282]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.10.07:348][260]Cmd: DELETE
+[2019.01.25-05.10.07:348][260]Cmd: ACTOR DELETE
+[2019.01.25-05.10.07:406][260]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.10.07:595][260]LogEditorActor: Deleted 1 Actors (0.244 secs)
+[2019.01.25-05.10.08:461][313]Cmd: DELETE
+[2019.01.25-05.10.08:461][313]Cmd: ACTOR DELETE
+[2019.01.25-05.10.08:514][313]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.10.08:710][313]LogEditorActor: Deleted 1 Actors (0.248 secs)
+[2019.01.25-05.10.11:681][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.10.14:450][722]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-05.10.14:762][735]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.10.25:290][468]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.11.17:385][734]Cmd: TRANSACTION UNDO
+[2019.01.25-05.11.17:385][734]LogEditorTransaction: Undo Scale Actors
+[2019.01.25-05.11.49:262][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.11.53:910][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.12.01:263][647]Cmd: EDIT COPY
+[2019.01.25-05.12.02:700][751]Cmd: EDIT PASTE
+[2019.01.25-05.12.06:983][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.12.51:557][495]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.13.17:931][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-05.13.19:231][800]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock24C14D38420588F458280EB788775F10.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
+[2019.01.25-05.13.19:328][800]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDat3C6EAA844F817FEE036C10BD008CAA0F.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
+[2019.01.25-05.13.40:435][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.13.41:752][742]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-05.13.43:040][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.14.40:608][ 58]Cmd: DELETE
+[2019.01.25-05.14.40:608][ 58]Cmd: ACTOR DELETE
+[2019.01.25-05.14.40:681][ 58]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.14.40:882][ 58]LogEditorActor: Deleted 1 Actors (0.273 secs)
+[2019.01.25-05.14.55:371][946]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.15.13:818][ 41]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.15.23:420][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.15.30:560][154]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.15.37:168][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.15.40:813][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.15.59:785][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.16.58:668][539]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.17.24:996][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-05.17.26:129][479]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock586FE7C04A3E0476575B638F4AB07C7B.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
+[2019.01.25-05.17.26:235][479]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDat2628AE4B454D0FB82101178A2050826B.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:753][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.45:754][830]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.50.46:967][831]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a2646fb8-122d-4f94-a763-057faaa1470c} was removed. Shutting down audio device.
+[2019.01.25-05.50.46:967][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.25-05.50.47:683][832]LogHttp: Warning: 00000199F205D440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-05.50.47:685][832]LogHttp: Warning: 00000199F205D440: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2019.01.25-05.50.47:685][832]LogHttp: Warning: 00000199F205D440: libcurl info message cache 1 (Closing connection 4)
+[2019.01.25-05.50.47:685][832]LogHttp: Warning: 00000199F205D440: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.01.25-05.50.47:685][832]LogHttp: Warning: 00000199F205D440: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-05.50.47:685][832]LogHttp: Warning: 00000199F205D440: libcurl info message cache 4 (Closing connection 5)
+[2019.01.25-05.50.47:685][832]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7C6B69B-483C-E8B6-6775-40AB80E252FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=0c86e52e403b0280df10288df242441a%7C10149582a6ec4edcb24e6a5ee68e5f35%7C2fbaba0e-6fca-4a12-a901-c8ee6c9bf681&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-05.50.51:760][843]LogInit: XAudio2 using 'Headphones (HD 4.50BTNC Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-05.50.52:446][845]LogInit: XAudio2 using 'Headphones (HD 4.50BTNC Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-05.51.13:178][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-05.51.26:209][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.51.27:489][ 75]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-05.51.29:483][190]Cmd: TRANSACTION UNDO
+[2019.01.25-05.51.29:484][190]LogEditorTransaction: Undo Brush Add
+[2019.01.25-05.51.30:039][208]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-05.51.30:528][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.51.40:717][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.52.42:441][501]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_Auto1FFDEE4A54CC1EC77999B3EA29ECF9DE4.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/Autosaves/Game/IL_Whitebox_MyCityBlock_Auto1.umap'
+[2019.01.25-05.52.42:450][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IL_Whitebox_MyCityBlock' took 1.026
+[2019.01.25-05.52.42:451][501]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.026
+[2019.01.25-05.52.44:721][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-05.52.52:734][971]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.52.54:728][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-05.53.13:012][183]LogEditorViewport: Clicking Background
+[2019.01.25-05.53.16:425][375]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.53.19:009][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-05.53.19:901][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.53.30:737][148]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush3)
+[2019.01.25-05.53.35:746][441]Cmd: DELETE
+[2019.01.25-05.53.35:746][441]Cmd: ACTOR DELETE
+[2019.01.25-05.53.35:792][441]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.53.35:989][441]LogEditorActor: Deleted 1 Actors (0.242 secs)
+[2019.01.25-05.53.57:744][613]Cmd: TRANSACTION UNDO
+[2019.01.25-05.53.57:744][613]LogEditorTransaction: Undo Scale Actors
+[2019.01.25-05.54.05:412][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.54.06:604][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-05.54.07:288][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.54.21:182][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-05.54.32:186][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.54.39:178][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.54.57:491][950]Cmd: DELETE
+[2019.01.25-05.54.57:491][950]Cmd: ACTOR DELETE
+[2019.01.25-05.54.57:553][950]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.54.57:746][950]LogEditorActor: Deleted 1 Actors (0.254 secs)
+[2019.01.25-05.54.58:164][966]Cmd: DELETE
+[2019.01.25-05.54.58:164][966]Cmd: ACTOR DELETE
+[2019.01.25-05.54.58:218][966]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-05.54.58:416][966]LogEditorActor: Deleted 1 Actors (0.251 secs)
+[2019.01.25-05.55.07:158][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.55.26:223][519]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.55.36:631][102]Cmd: TRANSACTION UNDO
+[2019.01.25-05.55.36:632][102]LogEditorTransaction: Undo Move Actors
+[2019.01.25-05.55.37:470][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.56.27:495][820]Cmd: TRANSACTION UNDO
+[2019.01.25-05.56.27:495][820]LogEditorTransaction: Undo Move Actors
+[2019.01.25-05.56.31:058][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.57.01:355][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.57.05:977][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.57.14:639][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.57.25:018][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.57.26:586][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-05.57.43:760][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-05.57.51:697][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.57.54:633][443]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-05.57.58:561][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.58.05:252][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.58.34:245][718]LogEditorViewport: Clicking Background
+[2019.01.25-05.58.42:832][217]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.59.15:638][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-05.59.22:029][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.59.41:038][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-05.59.57:974][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.00.02:236][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.00.26:454][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.00.42:384][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.01.09:879][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.01.12:908][565]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-06.01.18:733][888]Cmd: TRANSACTION UNDO
+[2019.01.25-06.01.18:733][888]LogEditorTransaction: Undo Brush Add
+[2019.01.25-06.01.33:400][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.01.35:012][881]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-06.01.38:200][ 57]Cmd: TRANSACTION UNDO
+[2019.01.25-06.01.38:200][ 57]LogEditorTransaction: Undo Brush Add
+[2019.01.25-06.01.46:152][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.01.47:676][604]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-06.01.48:202][628]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.02.06:053][647]Cmd: TRANSACTION UNDO
+[2019.01.25-06.02.06:053][647]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.02.07:119][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.02.24:539][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.02.56:177][905]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_Auto2847799804CCBB28316CC439694CB613A.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/Autosaves/Game/IL_Whitebox_MyCityBlock_Auto2.umap'
+[2019.01.25-06.02.56:189][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IL_Whitebox_MyCityBlock' took 1.367
+[2019.01.25-06.02.56:189][905]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.367
+[2019.01.25-06.03.18:777][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.03.22:927][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.03.45:259][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.03.47:563][599]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-06.03.48:065][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.03.59:089][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.04.01:943][406]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.04.14:133][ 40]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.04.17:882][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.04.24:543][611]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.04.49:903][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.05.02:993][743]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.05.14:139][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.05.31:811][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.05.51:476][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.05.53:378][628]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-06.05.54:131][660]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.06.03:938][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.06.12:416][415]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.06.22:981][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.06.24:832][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.06.38:061][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.06.47:278][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.06.56:769][913]Cmd: EDIT COPY
+[2019.01.25-06.06.57:903][984]Cmd: EDIT PASTE
+[2019.01.25-06.07.06:460][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.07.26:403][528]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.08.07:077][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.08.10:740][985]Cmd: EDIT COPY
+[2019.01.25-06.08.13:332][145]Cmd: EDIT PASTE
+[2019.01.25-06.08.16:021][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.08.39:526][533]Cmd: EDIT COPY
+[2019.01.25-06.08.39:940][556]Cmd: EDIT PASTE
+[2019.01.25-06.08.53:623][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.08.57:298][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.09.14:584][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.09.15:447][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.09.16:825][521]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock2273CD5444D23EA24877B4B8A4C7A586.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
+[2019.01.25-06.09.16:944][521]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDat65C73FCF4B2326CBAFF3648F91F6B0DC.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
+[2019.01.25-06.09.26:933][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.09.47:513][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.09.49:265][ 43]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.10.07:958][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.10.20:261][172]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.10.26:063][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.10.51:566][483]Cmd: TRANSACTION UNDO
+[2019.01.25-06.10.51:566][483]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.10.53:116][583]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.11.07:330][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.11.13:187][ 28]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.11.19:981][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.11.30:514][229]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.11.31:987][328]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush54)
+[2019.01.25-06.11.32:406][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.11.32:964][397]Cmd: TRANSACTION UNDO
+[2019.01.25-06.11.32:964][397]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.25-06.11.33:789][448]Cmd: TRANSACTION UNDO
+[2019.01.25-06.11.33:789][448]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.25-06.11.35:246][545]Cmd: TRANSACTION UNDO
+[2019.01.25-06.11.35:246][545]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.11.36:008][595]Cmd: TRANSACTION UNDO
+[2019.01.25-06.11.36:008][595]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.11.36:956][659]Cmd: TRANSACTION UNDO
+[2019.01.25-06.11.36:956][659]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.25-06.11.37:399][689]Cmd: TRANSACTION UNDO
+[2019.01.25-06.11.37:399][689]LogEditorTransaction: Undo Edit Brush Type
+[2019.01.25-06.11.44:609][163]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.11.57:190][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.12.04:531][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.12.54:360][473]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.13.03:809][ 36]Cmd: TRANSACTION UNDO
+[2019.01.25-06.13.03:810][ 36]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.13.13:938][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.13.27:241][521]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.13.28:546][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.13.35:707][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.13.42:388][408]Cmd: TRANSACTION UNDO
+[2019.01.25-06.13.42:388][408]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.13.45:332][563]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.14.07:963][794]Cmd: TRANSACTION UNDO
+[2019.01.25-06.14.07:963][794]LogEditorTransaction: Undo Scale Actors
+[2019.01.25-06.14.19:973][587]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.14.33:429][502]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.15.02:335][489]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.15.06:937][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.15.14:791][349]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.14:791][349]LogEditorTransaction: Undo Scale Actors
+[2019.01.25-06.15.21:546][792]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.21:546][792]LogEditorTransaction: Undo Scale Actors
+[2019.01.25-06.15.22:275][815]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.22:275][815]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.23:146][855]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.23:147][855]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.23:863][881]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.23:863][881]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.15.24:205][897]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.24:205][897]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.15.24:393][903]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.24:393][903]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.15.24:575][909]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.24:575][909]LogEditorTransaction: Undo Select Brush Surface
+[2019.01.25-06.15.24:762][917]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.24:762][917]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.25:033][917]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.25:033][917]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.25:342][917]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.25:342][917]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.25:619][917]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.25:619][917]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.25:929][917]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.25:929][917]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.29:385][110]Cmd: TRANSACTION UNDO
+[2019.01.25-06.15.29:385][110]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.15.32:534][291]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.15.33:531][355]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.15.56:137][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.16.15:536][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.16.34:699][417]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.16.38:570][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.17.03:478][488]Cmd: TRANSACTION UNDO
+[2019.01.25-06.17.03:478][488]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.17.05:507][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.17.11:059][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.17.21:351][686]Cmd: TRANSACTION UNDO
+[2019.01.25-06.17.21:351][686]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.17.22:678][751]Cmd: DELETE
+[2019.01.25-06.17.22:678][751]Cmd: ACTOR DELETE
+[2019.01.25-06.17.22:767][751]LogEditorActor: Deleted Actor: Brush
+[2019.01.25-06.17.23:052][751]LogEditorActor: Deleted 1 Actors (0.373 secs)
+[2019.01.25-06.17.28:188][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.17.35:407][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.17.46:885][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.17.54:856][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-06.18.13:173][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-06.18.29:214][528]Cmd: TRANSACTION UNDO
+[2019.01.25-06.18.29:214][528]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.25-06.18.46:897][777]Cmd: TRANSACTION UNDO
+[2019.01.25-06.18.46:897][777]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.19.05:815][ 70]Cmd: TRANSACTION UNDO
+[2019.01.25-06.19.05:815][ 70]LogEditorTransaction: Undo Move Actors
+[2019.01.25-06.19.08:098][190]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.19.19:418][967]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.25-06.19.25:154][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-06.19.26:210][356]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlockBD0AF28243334D2CE77B6EADF754B799.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock.umap'
+[2019.01.25-06.19.26:304][356]LogSavePackage: Moving '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Saved/IL_Whitebox_MyCityBlock_BuiltDatBA272F6540D8B8D424E766A609DF4BD9.tmp' to '../../../../../../Users/ivant/OneDrive/Documents/GitHub/Test/IL_AssetPipeline_002/Content/IL_Whitebox_MyCityBlock_BuiltData.uasset'
